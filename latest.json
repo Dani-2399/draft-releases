@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.5",
+  "version": "1.0.0-beta.6",
   "date": "2026-10-18",
   "notes": {
-    "es": "Corregido\r\n- Continuar con Google ya inicia sesión en Windows.\r\n- Si no se puede completar el inicio de sesión con Google, Draft ahora te lo dice en lugar de no hacer nada.",
-    "en": "Fixed\r\n- Continue with Google now signs you in on Windows.\r\n- If Google sign-in cannot be completed, Draft now tells you instead of doing nothing."
+    "es": "Corregido\r\n- Cerrar sesión ya no borra los proyectos guardados en tu computador. Se quedan donde están, ligados a tu cuenta.\r\n- Borrar tu cuenta tampoco elimina los proyectos de tu computador.",
+    "en": "Fixed\r\n- Signing out no longer deletes the projects saved on your computer. They stay where they are, tied to your account.\r\n- Deleting your account no longer removes the projects from your computer either."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.5/Draft-Setup-1.0.0-beta.5.exe",
-    "sha256": "6f80a24e77065d0df04c4a58623c54af36bf1fc927fd65713a2596e24129440f",
-    "size": 38853640
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.6/Draft-Setup-1.0.0-beta.6.exe",
+    "sha256": "965b5a59f83e0dcdbcb2b95b95c7e163b3f5202c02baae1e75205f55bb852ffe",
+    "size": 38857570
   },
-  "signature": "erDxzCipmz8HMATPVDHb8arNupqb6d1Cs1VZijG2qMPG7Z6N4E2ZUu9pdnSGRmjwXFmYMmRGHBfDPRpDYbnoBg=="
+  "signature": "U/hNTtoCstQhSqEm1d4aLSwUsm3P5VwQj5o9NSTrnCphO9FHCMKTOphq9FBGcW4yPIUwkANUKOo6byLIYA7OAA=="
 }
