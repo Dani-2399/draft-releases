@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.4",
+  "version": "1.0.0-beta.5",
   "date": "2026-10-18",
   "notes": {
-    "es": "Novedades\n- Draft ahora te pregunta una sola vez, la primera vez que lo abres, si quieres enviar informes de errores para ayudarnos a arreglar problemas. Queda apagado hasta que digas que sí, nunca incluye tus proyectos ni tus datos personales y puedes cambiarlo en Ajustes.\n- Al crear tu cuenta ahora aceptas los términos de uso y la política de privacidad.\n- El sitio web tiene una nueva sección de documentación: draftapp.dev.\n\nCorregido\n- Continuar con Google ya funciona en Windows.",
-    "en": "What's new\n- Draft now asks you once, the first time you open it, if you want to send error reports to help us fix problems. It stays off until you say yes, it never includes your projects or personal data, and you can change it in Settings.\n- When you create your account you now accept the terms of use and the privacy policy.\n- The website has a new documentation section: draftapp.dev.\n\nFixed\n- Continue with Google now works on Windows."
+    "es": "Corregido\r\n- Continuar con Google ya inicia sesión en Windows.\r\n- Si no se puede completar el inicio de sesión con Google, Draft ahora te lo dice en lugar de no hacer nada.",
+    "en": "Fixed\r\n- Continue with Google now signs you in on Windows.\r\n- If Google sign-in cannot be completed, Draft now tells you instead of doing nothing."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.4/Draft-Setup-1.0.0-beta.4.exe",
-    "sha256": "8cfedbe5daed5ed730c1bf225b7d28d7b1ad17cb695021212083bcc655fa5791",
-    "size": 38852447
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.5/Draft-Setup-1.0.0-beta.5.exe",
+    "sha256": "6f80a24e77065d0df04c4a58623c54af36bf1fc927fd65713a2596e24129440f",
+    "size": 38853640
   },
-  "signature": "05zdBK5jUin4bru7na1O2tShr999RUxVs5ZWw1yhMCYsRZaG9/AZvbnmKX0twh9cpYxRrxrmkQsvnxdDRRHzBQ=="
+  "signature": "erDxzCipmz8HMATPVDHb8arNupqb6d1Cs1VZijG2qMPG7Z6N4E2ZUu9pdnSGRmjwXFmYMmRGHBfDPRpDYbnoBg=="
 }
