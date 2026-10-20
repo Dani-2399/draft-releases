@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.6",
-  "date": "2026-10-18",
+  "version": "1.0.0-beta.7",
+  "date": "2026-10-19",
   "notes": {
-    "es": "Corregido\r\n- Cerrar sesión ya no borra los proyectos guardados en tu computador. Se quedan donde están, ligados a tu cuenta.\r\n- Borrar tu cuenta tampoco elimina los proyectos de tu computador.",
-    "en": "Fixed\r\n- Signing out no longer deletes the projects saved on your computer. They stay where they are, tied to your account.\r\n- Deleting your account no longer removes the projects from your computer either."
+    "es": "Novedades\r\n- Draft estrena logo: la caja de selección del editor con una D. Lo verás en el ícono de la app, el instalador y el sitio web.\r\n- Después de actualizar, Draft ahora te cuenta qué cambió en cada versión. También puedes abrirlo cuando quieras desde Ajustes.",
+    "en": "What's new\r\n- Draft has a new logo: the editor's selection box with a D. You will see it in the app icon, the installer and the website.\r\n- After an update, Draft now tells you what changed in each version. You can also open it any time from Settings."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.6/Draft-Setup-1.0.0-beta.6.exe",
-    "sha256": "965b5a59f83e0dcdbcb2b95b95c7e163b3f5202c02baae1e75205f55bb852ffe",
-    "size": 38857570
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.7/Draft-Setup-1.0.0-beta.7.exe",
+    "sha256": "a8e921a01b894af662be4f2dd60669782cfbf413e3a0a1b3962339a210c29adb",
+    "size": 38862877
   },
-  "signature": "U/hNTtoCstQhSqEm1d4aLSwUsm3P5VwQj5o9NSTrnCphO9FHCMKTOphq9FBGcW4yPIUwkANUKOo6byLIYA7OAA=="
+  "signature": "/sKHRYfWuEAvdLD0xSIybPoAWj+Ou2t2tGaA13O0x03eus+URHBLgQVSB2LZmTMOFWkYQBHxanGTkKXbufvPDQ=="
 }
