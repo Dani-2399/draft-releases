@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.7",
-  "date": "2026-10-19",
+  "version": "1.0.0-beta.8",
+  "date": "2026-10-21",
   "notes": {
-    "es": "Novedades\r\n- Draft estrena logo: la caja de selección del editor con una D. Lo verás en el ícono de la app, el instalador y el sitio web.\r\n- Después de actualizar, Draft ahora te cuenta qué cambió en cada versión. También puedes abrirlo cuando quieras desde Ajustes.",
-    "en": "What's new\r\n- Draft has a new logo: the editor's selection box with a D. You will see it in the app icon, the installer and the website.\r\n- After an update, Draft now tells you what changed in each version. You can also open it any time from Settings."
+    "es": "Novedades\r\n- Pantallas que se adaptan: un contenedor puede apilarse en pantallas angostas, repartirse en columnas o limitar su ancho. Lo ajustas en Propiedades, en Adaptación, y también sale en el código de Flutter y de React y en la descripción para la IA.\r\n- Adaptar a otros tamaños: un botón en el menú de la página prepara tu diseño para tabletas y escritorio, sin cambiar lo que ves ahora. Se puede deshacer.\r\n- Las plantillas se acomodan solas según el tamaño de la página: en tableta, web y escritorio usan un menú lateral y columnas.",
+    "en": "What's new\r\n- Screens that adapt: a container can now stack on narrow screens, spread into columns or limit its width. You set it in Properties, under Responsive, and it also comes out in the Flutter and React code and in the AI description.\r\n- Adapt to other sizes: one button in the page menu prepares your design for tablets and desktop without changing what you see now. You can undo it.\r\n- Templates rearrange themselves to the size of the page: on tablet, web and desktop they use a side menu and columns."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.7/Draft-Setup-1.0.0-beta.7.exe",
-    "sha256": "a8e921a01b894af662be4f2dd60669782cfbf413e3a0a1b3962339a210c29adb",
-    "size": 38862877
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.8/Draft-Setup-1.0.0-beta.8.exe",
+    "sha256": "ec8cad055277ec94541615fc38d1eef52790705f5b5e5c9821511a39dce079cb",
+    "size": 38894025
   },
-  "signature": "/sKHRYfWuEAvdLD0xSIybPoAWj+Ou2t2tGaA13O0x03eus+URHBLgQVSB2LZmTMOFWkYQBHxanGTkKXbufvPDQ=="
+  "signature": "OnSirrjQ9Jpsf/lNcv+u4t3ZvXxs4Ts86qppTC3dy/jV6q65juATuEZCfBHX36lUYD7dcSyd93Mfo0T8FgW4DQ=="
 }
