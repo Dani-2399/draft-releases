@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.8",
-  "date": "2026-10-21",
+  "version": "1.0.0-beta.9",
+  "date": "2026-10-26",
   "notes": {
-    "es": "Novedades\r\n- Pantallas que se adaptan: un contenedor puede apilarse en pantallas angostas, repartirse en columnas o limitar su ancho. Lo ajustas en Propiedades, en Adaptación, y también sale en el código de Flutter y de React y en la descripción para la IA.\r\n- Adaptar a otros tamaños: un botón en el menú de la página prepara tu diseño para tabletas y escritorio, sin cambiar lo que ves ahora. Se puede deshacer.\r\n- Las plantillas se acomodan solas según el tamaño de la página: en tableta, web y escritorio usan un menú lateral y columnas.",
-    "en": "What's new\r\n- Screens that adapt: a container can now stack on narrow screens, spread into columns or limit its width. You set it in Properties, under Responsive, and it also comes out in the Flutter and React code and in the AI description.\r\n- Adapt to other sizes: one button in the page menu prepares your design for tablets and desktop without changing what you see now. You can undo it.\r\n- Templates rearrange themselves to the size of the page: on tablet, web and desktop they use a side menu and columns."
+    "es": "Novedades\r\n- La barra de navegación ahora se vuelve un menú lateral cuando ves la página en tableta o escritorio, y respeta lo que cambies a mano para esos tamaños.\r\n- Cambiar el tamaño de una página ya no convierte un menú lateral en barra inferior por error.\r\n- Nueva página de \"Limitaciones conocidas\" en la documentación, con lo que Draft todavía no cubre.\r\n- Exportaciones más limpias: las filas de lista sobre un fondo de color se ven en el código de Flutter, la exportación de página sigue el idioma de la app y la descripción para la IA es más corta y precisa.",
+    "en": "What's new\r\n- The navigation bar now turns into a side menu when you view a page on a tablet or desktop, and it respects anything you set by hand for those sizes.\r\n- Resizing a page no longer converts a side menu into a bottom bar by mistake.\r\n- New \"Known limitations\" page in the documentation, with what Draft does not cover yet.\r\n- Cleaner exports: list rows on a colored background show up in the Flutter code, the page export follows the app language, and the AI description is shorter and more accurate."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.8/Draft-Setup-1.0.0-beta.8.exe",
-    "sha256": "ec8cad055277ec94541615fc38d1eef52790705f5b5e5c9821511a39dce079cb",
-    "size": 38894025
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.9/Draft-Setup-1.0.0-beta.9.exe",
+    "sha256": "fd99f1e818785921b9a79bdf5bc56d595ee9823dc64c3aa4b00303bc198d3944",
+    "size": 38890889
   },
-  "signature": "OnSirrjQ9Jpsf/lNcv+u4t3ZvXxs4Ts86qppTC3dy/jV6q65juATuEZCfBHX36lUYD7dcSyd93Mfo0T8FgW4DQ=="
+  "signature": "3XCXcg9INeOIuRdAnzR3JKfUhT5+6JEjRe43FGj4feznkwQL/DUiChohpUy8wTug08AE7ILHncuqPxW82Dw3DA=="
 }
