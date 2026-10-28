@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0-beta.9",
-  "date": "2026-10-26",
+  "version": "1.0.0-beta.10",
+  "date": "2026-10-27",
   "notes": {
-    "es": "Novedades\r\n- La barra de navegación ahora se vuelve un menú lateral cuando ves la página en tableta o escritorio, y respeta lo que cambies a mano para esos tamaños.\r\n- Cambiar el tamaño de una página ya no convierte un menú lateral en barra inferior por error.\r\n- Nueva página de \"Limitaciones conocidas\" en la documentación, con lo que Draft todavía no cubre.\r\n- Exportaciones más limpias: las filas de lista sobre un fondo de color se ven en el código de Flutter, la exportación de página sigue el idioma de la app y la descripción para la IA es más corta y precisa.",
-    "en": "What's new\r\n- The navigation bar now turns into a side menu when you view a page on a tablet or desktop, and it respects anything you set by hand for those sizes.\r\n- Resizing a page no longer converts a side menu into a bottom bar by mistake.\r\n- New \"Known limitations\" page in the documentation, with what Draft does not cover yet.\r\n- Cleaner exports: list rows on a colored background show up in the Flutter code, the page export follows the app language, and the AI description is shorter and more accurate."
+    "es": "Novedades\r\n- Nuevo tamaño \"Flexible\" y ancho o alto en porcentaje, en Propiedades, para que una pieza ocupe como mucho su parte de una fila o columna.\r\n- Draft te avisa en el editor cuando algo no cabe y se desborda.\r\n- Los App Bar ya no quedan bajo la hora y la batería en la Vista previa, y las piezas fijadas abajo y el botón flotante bajan junto al menú lateral.\r\n- Copiar código a Flutter se parece más al lienzo: piezas en Expandir y relleno del Flujo.\r\n- Copiar código a React ahora cubre App Bar, barra inferior, riel lateral, Tab Bar, Side Menu, List Tile, Counter, Dropdown y más.",
+    "en": "What's new\r\n- New \"Flexible\" size and width/height as a percentage, in Properties, so a piece can take up to its share of a row or column.\r\n- Draft now warns you in the editor when something does not fit and overflows.\r\n- App Bars no longer sit under the clock and battery in the Preview, and pinned pieces and the floating button go down beside a side menu.\r\n- Copy code to Flutter matches the canvas better: pieces set to Expand and the Flow padding.\r\n- Copy code to React now covers App Bar, bottom bar, side rail, Tab Bar, Side Menu, List Tile, Counter, Dropdown and more."
   },
   "windows": {
-    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.9/Draft-Setup-1.0.0-beta.9.exe",
-    "sha256": "fd99f1e818785921b9a79bdf5bc56d595ee9823dc64c3aa4b00303bc198d3944",
-    "size": 38890889
+    "url": "https://github.com/Dani-2399/draft-releases/releases/download/v1.0.0-beta.10/Draft-Setup-1.0.0-beta.10.exe",
+    "sha256": "bab9544b0bcc2d8e9fe330d542558822321e9ef5d85ba600ba2b27c7a7b60531",
+    "size": 38951259
   },
-  "signature": "3XCXcg9INeOIuRdAnzR3JKfUhT5+6JEjRe43FGj4feznkwQL/DUiChohpUy8wTug08AE7ILHncuqPxW82Dw3DA=="
+  "signature": "DE9qprdsWolAdm2HyI4VnuekT38lOozyO6uQQ8rp9Nnhpw93WxnCUqgDX5WVPo8hS2MzHZu8KivhILvS/bqlCg=="
 }
